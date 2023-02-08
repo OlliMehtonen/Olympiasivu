@@ -1,0 +1,318 @@
+{
+  "Medals (Total)": {
+    "domain": [1, 150, 350, 550, 850, 1200],
+    "range": ["#f7fcfd","#e4eef5","#ccddec","#b2cae1","#9cb3d5","#8f95c6","#8c74b5"]
+  },
+  "Gold": {
+    "domain": [1, 40, 80, 180, 270, 1000],
+    "range": ["#ffffe5","#fff8c4","#feeaa1","#fed676","#feba4a","#fb992c","#ee7918"]
+  },
+  "Silver": {
+    "domain": [1, 30, 90, 150, 240, 400],
+    "range": ["#ffffff","#f2f2f2","#e2e2e2","#cecece","#b4b4b4","#979797","#7a7a7a"]
+  },
+  "Bronze": {
+    "domain": [1, 35, 75, 140, 210, 340],
+    "range": ["#feeaa1","#fed676","#feba4a","#fb992c","#ee7918","#d85b0a","#8f3204"]
+  },
+  "Medals (Per capita)": {
+    "domain": [0.01, 4, 12, 35, 55, 80],
+    "range": ["#e8f6f9","#d5efed","#b7e4da","#8fd3c1","#68c2a3","#49b17f","#2f9959"]
+  },
+  "Medals (Winter)": {
+    "domain": [1, 20, 70, 120, 220, 360],
+    "range": ["#eff3ff","#c6dbef","#9ecae1","#6baed6","#4292c6","#2171b5","#084594"]
+  },
+  "Medals (Summer)": {
+    "domain": [1, 100, 250, 330, 750, 1200],
+    "range": ["#edf8e9","#c7e9c0","#a1d99b","#74c476","#41ab5d","#238b45","#005a32"]
+  },
+  "Hosts (Total)": {
+    "domain": [1, 2, 3, 4, 5, 6],
+    "range": ["#f2f0f7","#b6b5d8","#9e9bc9","#8782bc","#7363ac"]
+  },
+  "Hosts (Summer)": {
+    "domain": [1, 2, 3, 4],
+    "range": ["#edf8e9","#97d494","#4daf62","#157f3b","#036429"]
+  },
+  "Hosts (Winter)": {
+    "domain": [1, 2, 3, 4, 5],
+    "range": ["#eff3ff","#c6dbef","#9ecae1","#6baed6","#4292c6"]
+  },
+  "Appearances (Total)": {
+    "domain": [1, 10, 20, 30, 40, 50],
+    "range": ["#f2f0f7","#cecee5","#bcbddc","#9e9ac8","#807dba","#6a51a3","#4a1486"]
+  },
+  "Appearances (Winter)": {
+    "domain": [1, 5, 10, 15, 20, 23],
+    "range": ["#f7fbff","#e3eef9","#cfe1f2","#b5d4e9","#93c3df","#6daed5", "#4b97c9"]
+  },
+  "Appearances (Summer)": {
+    "domain": [1, 7, 14, 21, 28],
+    "range": ["#edf8e9","#c7e9c0","#a1d99b","#41ab5d","#238b45","#005a32"]
+  },
+  "Aeronautics": {
+    "domain": [1],
+    "range": ["#ffffe5","#4eaf63"]
+  },
+  "Alpine Skiing": {
+    "domain": [1, 5, 10, 15, 30, 55],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Alpinism": {
+    "domain": [1, 2, 4, 7, 10],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Archery": {
+    "domain": [1, 5, 15, 25, 45, 60],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Art Competitions": {
+    "domain": [1, 3, 6, 8, 10, 15],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Athletics": {
+    "domain": [1, 30, 90, 150, 270, 350],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Badminton": {
+    "domain": [1, 5, 10, 25, 30, 60],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Baseball": {
+    "domain": [1, 24, 48, 64, 68, 100],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Basketball": {
+    "domain": [1, 12, 24, 60, 100, 300],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Basque Pelota": {
+    "domain": [1, 2],
+    "range": ["#ffffe5","#c7e89b","#4eaf63"]
+  },
+  "Beach Volleyball": {
+    "domain": [1, 2, 4, 6, 20, 25],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Biathlon": {
+    "domain": [1, 3, 10, 15, 35, 60],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Bobsleigh": {
+    "domain": [1, 8, 10, 15, 30, 70],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Boxing": {
+    "domain": [1, 15, 30, 50, 70, 90],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Canoeing": {
+    "domain": [1, 3, 10, 20, 30, 80],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Cricket": {
+    "domain": [1, 20],
+    "range": ["#ffffe5","#c7e89b","#4eaf63"]
+  },
+  "Croquet": {
+    "domain": [1, 8],
+    "range": ["#ffffe5","#c7e89b","#4eaf63"]
+  },
+  "Cross Country Skiing": {
+    "domain": [1, 4, 10, 30, 100, 140],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Curling": {
+    "domain": [1, 5, 10, 15, 20, 30],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Cycling": {
+    "domain": [1, 3, 8, 20, 45, 80],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Diving": {
+    "domain": [1, 2, 4, 15, 25, 80],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Equestrianism": {
+    "domain": [1, 3, 5, 20, 50, 85],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Fencing": {
+    "domain": [1, 30, 90, 150, 270, 350],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Figure Skating": {
+    "domain": [1, 3, 7, 12, 20, 50],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Football": {
+    "domain": [1, 15, 30, 40, 50, 60],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Freestyle Skiing": {
+    "domain": [1, 3, 5, 10, 15, 20],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Golf": {
+    "domain": [1, 3, 35],
+    "range": ["#ffffe5","#e4f4ac","#a2d88a","#4eaf63"]
+  },
+  "Gymnastics": {
+    "domain": [1, 5, 15, 50, 100, 150],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Handball": {
+    "domain": [1, 15, 40, 70, 80, 90],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Hockey": {
+    "domain": [1, 15, 30, 70, 120, 185],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Ice Hockey": {
+    "domain": [1, 15, 40, 120, 200, 300],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Jeu De Paume": {
+    "domain": [1, 2],
+    "range": ["#ffffe5","#c7e89b","#4eaf63"]
+  },
+  "Judo": {
+    "domain": [1, 5, 10, 18, 35, 50],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Lacrosse": {
+    "domain": [1, 10, 30],
+    "range": ["#ffffe5","#e4f4ac","#a2d88a","#4eaf63"]
+  },
+  "Luge": {
+    "domain": [1, 5, 9, 20, 30, 40],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Military Ski Patrol": {
+    "domain": [1, 4],
+    "range": ["#ffffe5","#c7e89b","#4eaf63"]
+  },
+  "Modern Pentathlon": {
+    "domain": [1, 2, 5, 10, 15, 30],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Motorboating": {
+    "domain": [1, 5],
+    "range": ["#ffffe5","#c7e89b","#4eaf63"]
+  },
+  "Nordic Combined": {
+    "domain": [1, 3, 7, 20, 28, 40],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Polo": {
+    "domain": [1, 4, 5, 7, 12, 30],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Racquets": {
+    "domain": [1, 10],
+    "range": ["#ffffe5","#c7e89b","#4eaf63"]
+  },
+  "Rhythmic Gymnastics": {
+    "domain": [1, 2, 6, 12, 20, 46],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Roque": {
+    "domain": [1, 3],
+    "range": ["#ffffe5","#c7e89b","#4eaf63"]
+  },
+  "Rowing": {
+    "domain": [1, 7, 13, 50, 100, 200],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Rugby": {
+    "domain": [1, 15, 16, 30, 36, 49],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Rugby Sevens": {
+    "domain": [1, 13],
+    "range": ["#ffffe5","#c7e89b", "#4eaf63"]
+  },
+  "Sailing": {
+    "domain": [1, 4, 8, 12, 30, 100],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Shooting": {
+    "domain": [1, 3, 5, 10, 20, 50],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Short Track Speed Skating": {
+    "domain": [1, 3, 5, 10, 30, 70],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Skeleton": {
+    "domain": [1, 2, 3, 4, 6, 8],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Ski Jumping": {
+    "domain": [1, 5, 10, 20, 30, 40],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Snowboarding": {
+    "domain": [1, 3, 5, 7, 10, 12],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Softball": {
+    "domain": [1, 5, 10, 25, 50, 60],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Speed Skating": {
+    "domain": [1, 5, 15, 30, 50, 80],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Swimming": {
+    "domain": [1, 5, 10, 50, 100, 125],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Synchronized Swimming": {
+    "domain": [1, 10, 20, 25, 30, 50],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Table Tennis": {
+    "domain": [1, 3, 5, 10, 30, 50],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Taekwondo": {
+    "domain": [1, 2, 3, 5, 8, 10],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Tennis": {
+    "domain": [1, 5, 10, 15, 30, 50],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Trampolining": {
+    "domain": [1, 2, 3, 5, 10],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Triathlon": {
+    "domain": [1, 2, 3, 5],
+    "range": ["#ffffe5","#e4f4ac","#c7e89b","#78c578","#4eaf63"]
+  },
+  "Tug-Of-War": {
+    "domain": [1, 3, 7, 10, 15, 30],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Volleyball": {
+    "domain": [1, 10, 20, 30, 60, 120],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Water Polo": {
+    "domain": [1, 10, 20, 30, 40, 120],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Weightlifting": {
+    "domain": [1, 5, 10, 15, 30, 50],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  },
+  "Wrestling": {
+    "domain": [1, 15, 25, 50, 70, 120],
+    "range": ["#ffffe5","#f7fcc4","#e4f4ac","#c7e89b","#a2d88a","#78c578","#4eaf63"]
+  }
+}
